@@ -1,1 +1,1 @@
-# sync-v.github.io
+# SYNCHRON-V Static Web Page
